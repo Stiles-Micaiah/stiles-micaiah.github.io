@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2b8f3554a5777ab275a0c7c091dfc3f9.js"
+  "/precache-manifest.3f058addfd251bdd8eaac1e85cf32a46.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "pwa-test"});
+workbox.core.setCacheNameDetails({prefix: "Micaiah"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
